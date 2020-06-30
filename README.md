@@ -19,11 +19,11 @@ Deleting metadata
 - After wiping, the metadata no longer exists
 
 
-Requirements
-guizero
-tkinter
-PIL
-pyexiv2
+# Requirements
+- guizero
+- tkinter
+- PIL
+- pyexiv2
 
 
 # Steps to install pyexiv2 for Ubuntu users
