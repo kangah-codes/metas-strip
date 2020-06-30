@@ -33,3 +33,6 @@ sudo apt-get install libexiv2-dev
 sudo apt-get install libboost-python-dev
 pip3 install py3exiv2
 `
+
+# Changelog
+- Version 0.0.1 : Working, no Mac or Windows compat
