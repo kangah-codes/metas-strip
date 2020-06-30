@@ -4,7 +4,7 @@ Strip metadata from images
 This is a simple GUI based program which is used to delete all metadata contained in an image file
 As of now, it will only work on Linux (Ubuntu) based systems because of some dependencies only in linux
 
-Loading an image
+ - Loading an image
 ![LOAD](read.png)
 
 
@@ -13,7 +13,7 @@ Loading an image
 Deleting metadata
 ![DELETE](delete.png)
 
-After
+- After
 ![AFTER](after.png)
 
 - After wiping, the metadata no longer exists
